@@ -217,5 +217,5 @@
     (adsbygoogle = window.adsbygoogle || []).push({});
   </script>
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-</body>
+</body><meta name="google-site-verification" content="fSkUn94v6HhYqiv6KpuaPIieHEhKIdEUkmqGkflubS8" />
 </html>
